@@ -13,5 +13,8 @@
         <link href="https://cssnano.github.io/blog/cssnano-5-release-notes"/>
         <updated>2021-04-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We have released a new major version of cssnano.]]></summary>
+        <author>
+            <name>Ludovico Fischer</name>
+        </author>
     </entry>
 </feed>
